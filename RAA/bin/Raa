@@ -1,0 +1,4 @@
+#!/usr/bin/env python
+
+from raa import __main__
+__main__.entry_point()
